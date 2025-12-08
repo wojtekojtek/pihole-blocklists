@@ -2,7 +2,6 @@
 0.0.0.0 v1.pinimg.com
 0.0.0.0 i.pinimg.com
 0.0.0.0 api.pinterest.com
-0.0.0.0 jarlio
 0.0.0.0 jarlio.conversions.appsflyersdk.com
 0.0.0.0 jarlio.gcdsdk.appsflyersdk.com
 0.0.0.0 jarlio.launches.appsflyersdk.com

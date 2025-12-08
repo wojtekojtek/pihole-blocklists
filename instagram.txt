@@ -1,0 +1,7 @@
+0.0.0.0 z-p42-static.cdninstagram.com
+0.0.0.0 z-p42-graph.instagram.com
+0.0.0.0 b.i.instagram.com
+0.0.0.0 i.instagram.com
+0.0.0.0 gateway.instagram.com
+0.0.0.0 instagram.fktw1-1.fna.fbcdn.net
+0.0.0.0 maps.instagram.com
