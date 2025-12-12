@@ -5,3 +5,7 @@
 0.0.0.0 gateway.instagram.com
 0.0.0.0 instagram.fktw1-1.fna.fbcdn.net
 0.0.0.0 maps.instagram.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 i-fallback.instagram.com
+0.0.0.0 lookaside.instagram.com
+0.0.0.0 instagram.fktw4-1.fna.fbcdn.net
