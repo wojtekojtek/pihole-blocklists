@@ -8,3 +8,5 @@
 0.0.0.0 gcp.api.snapchat.com
 0.0.0.0 europe-west1-gcp.api.snapchat.com
 0.0.0.0 usc1-gcp-v62.api.snapchat.com
+0.0.0.0 aws.api.snapchat.com
+0.0.0.0 usc1-gcp-v61.api.snapchat.com
