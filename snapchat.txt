@@ -1,0 +1,10 @@
+0.0.0.0 aw.sc-cdn.net
+0.0.0.0 aws.duplex.snapchat.com
+0.0.0.0 us-east4-gcp.api.snapchat.com
+0.0.0.0 us-east1-aws.api.snapchat.com
+0.0.0.0 c-test.sc-cdn.net
+0.0.0.0 bolt-gcdn.sc-cdn.net
+0.0.0.0 cf-st.sc-cdn.net
+0.0.0.0 gcp.api.snapchat.com
+0.0.0.0 europe-west1-gcp.api.snapchat.com
+0.0.0.0 usc1-gcp-v62.api.snapchat.com
