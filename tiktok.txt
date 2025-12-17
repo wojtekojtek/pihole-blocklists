@@ -10113,3 +10113,10 @@
 0.0.0.0 libra-boot.tiktokv.com
 0.0.0.0 widget-ttp2.tiktokv.eu
 0.0.0.0 p16-common-sign.tiktokcdn-eu.com
+0.0.0.0 webcast16-normal-useastred.tiktokv.eu
+0.0.0.0 webcast-ws32-normal-no1a.tiktokv.eu
+0.0.0.0 sf16-teko.tiktokcdn-eu.com
+0.0.0.0 p16-common-sign.tiktokcdn-us.com
+0.0.0.0 sf-teko-source.tiktokcdn.com
+0.0.0.0 rtlog16-normal-useastred.tiktokv.eu
+0.0.0.0 aggr32-normal.tiktokv.eu
